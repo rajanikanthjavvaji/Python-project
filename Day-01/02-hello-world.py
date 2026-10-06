@@ -1,1 +1,1 @@
-print(" this is my firt py code")
+print(" hello world")
